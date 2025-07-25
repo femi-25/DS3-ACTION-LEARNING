@@ -1,0 +1,5 @@
+config/airflow.cfg
+logs/*
+dags/__pycache__
+data/*/*.csv
+data/good_data/prediction_checklist.txt
